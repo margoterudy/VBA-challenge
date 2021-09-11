@@ -6,7 +6,7 @@ VBA Assignment NUBootcamp
  
  Then performed my code on this following file. The excel file was too large to upload: https://nu.bootcampcontent.com/NU-Coding-Bootcamp/nu-chi-virt-data-pt-08-2021-u-c/-/blob/master/02-Homework/02-VBA-Scripting/Instructions/Resources/Multiple_year_stock_data.xlsx
  
- The instructions we as follows :
+ The instructions were as follows :
  Instructions
 
 Create a script that will loop through all the stocks for one year and output the following information:
